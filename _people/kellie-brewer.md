@@ -4,10 +4,11 @@ date: 2017-11-14 10:59:07 +0000
 role:
 - advisor
 - staff
-sub_heading: Professor
+sub_heading: ROLAND 303
 thumbnail: "/uploads/2017/11/14/alejandra-higareda-295605.jpg"
 email: ''
 linkedin: ''
+layout: person
 ---
 
 Kellie Brewer joined Belkirk in 2014 as a Professor of Engineering.
