@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2018/05/27/01.jpg"
 layout: landing-page
 heading: Strategic Data and Telecom
 partners:
