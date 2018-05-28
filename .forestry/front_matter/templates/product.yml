@@ -27,4 +27,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _products/apogee-enterprise.md
 - _products/apogee-desktop.md
