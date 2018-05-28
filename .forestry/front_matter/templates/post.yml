@@ -38,3 +38,10 @@ fields:
   type: text
   hidden: true
   default: post
+pages:
+- _posts/2017-02-12-modern.md
+- _posts/2017-08-01-welcome.md
+- _posts/2017-08-22-research.md
+- _posts/2017-09-25-introduction.md
+- _posts/2018-05-27-my-first-post.html
+- _posts/2018-05-27-example-draft.md

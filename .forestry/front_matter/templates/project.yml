@@ -26,3 +26,10 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- _projects/epilepsy-monitoring.md
+- _projects/apogee-bis.md
+- _projects/apogee-enterprise.html
+- _projects/t420.html
+- _projects/modern-engineering.md
+- _projects/electric-vehicle-design.md
