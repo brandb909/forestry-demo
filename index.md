@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2018/05/27/01.jpg"
+banner_image: "/uploads/2018/05/28/lenovo-thinkpad-x1-2016-review-keyboard-1500x1000-2.jpg"
 layout: landing-page
 heading: Strategic Data and Telecom
 partners:
@@ -29,5 +29,6 @@ show_staff: false
 menu:
   navigation:
     identifier: _index
+    url: "/"
     weight: 1
 ---
