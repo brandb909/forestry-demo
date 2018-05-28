@@ -26,5 +26,3 @@ call accounting package is geared towards small to mid-sized organizations with 
 * Billcode/Tenant/Legal
 * Answer Service Billback
 * Robust, Reliable, Scale-able, Multi-Site Platform
-
-## 
