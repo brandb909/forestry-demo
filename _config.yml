@@ -24,7 +24,7 @@ collections:
     permalink: "/projects/:path/"
   products:
     output: true
-    permalink: "/products/:path"
+    permalink: "/products/:path/"
 # tag_page_layout: tag_page
 # tag_page_dir: tag
 jekyll-archives:
