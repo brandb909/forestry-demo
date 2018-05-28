@@ -2,7 +2,7 @@
 title: APOGEE DESKTOP
 date: 2016-04-20 00:00:00 +0000
 categories: []
-description: A portable device for epileptic patients.
+description: SDT Product 1
 banner_image: "/uploads/2018/05/27/28bb1b9639975d393adfb290263ec46f.jpg"
 sub_heading: " call accounting package is geared towards small to mid-sized organizations"
 tags:
